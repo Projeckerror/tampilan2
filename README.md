@@ -11,7 +11,7 @@ pkg install figlet
 
 pkg install git
 
-git clone https://github.com/Projeckerror/tampilan2/new/main?readme=1
+git clone https://github.com/Projeckerror/tampilan2
 
 cd tampilan2
 
